@@ -1,0 +1,5 @@
+django>=4.2
+djangorestframework>=3.14
+mysqlclient>=2.2
+PyJWT>=2.8
+drf-yasg>=1.21
